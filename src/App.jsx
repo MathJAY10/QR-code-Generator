@@ -177,7 +177,7 @@ function App() {
             <div className="flex justify-center mb-6 overflow-auto">
               <div ref={qrRef} style={{ width: size, height: size }}>
                 <QRCodeCanvas
-                  value={text || 'https://stackblitz.com'}
+                  value={text || 'Enter Text'}
                   size={size}
                   level={level}
                   includeMargin={includeMargin}
