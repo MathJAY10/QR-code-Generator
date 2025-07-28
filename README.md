@@ -54,3 +54,4 @@ A **React.js** application that allows users to generate customizable QR codes w
 
 # QR-code-Generator
 # QR-code-Generator
+# QR-code-Generator
